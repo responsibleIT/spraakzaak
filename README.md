@@ -37,7 +37,7 @@ These metrics are based on human-annotated meetings and are used to evaluate and
 
 ## Project Status
 
-This is a **public project**, but **not open source**. Thus, prticipation or contributions are subject to approval by the project partners:
+This is a **public project**, but **not open source**. Thus, participation or contributions are subject to approval by the project partners:
 
 - **Gemeente Amsterdam (City of Amsterdam)**  
 - **Responsible IT Lab, Amsterdam University of Applied Sciences (HvA)**
