@@ -50,4 +50,4 @@ For questions or participation inquiries:
   ✉️ [m.fuckner@hva.nl](mailto:m.fuckner@hva.nl)
 
 - **Virgill van der Meer** – Gemeente Amsterdam  
-  ✉️ [v.van.der.meer@amsterdam.nl@amsterdam.nl](mailto:v.vandermeer@amsterdam.nl)
+  ✉️ [v.van.der.meer@amsterdam.nl](mailto:v.vandermeer@amsterdam.nl)
