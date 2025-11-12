@@ -14,7 +14,7 @@ Spraakzaak has three main components, each maintained in a separate repository:
 
 A web application for uploading or recording meetings, scheduling transcriptions, and viewing or summarizing meetings.
 
-**Repository:** [spraakzaak-frontend][https://github.com/responsibleIT/spraakzaak-frontend]
+**Repository:** [spraakzaak-frontend](https://github.com/responsibleIT/spraakzaak-frontend)
 
 ### Back-end – *Spraakzaak Backend*
 Handles the core processing tasks:
