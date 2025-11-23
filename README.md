@@ -46,7 +46,7 @@ This is a **public project**, but **not open source**. Thus, participation or co
 
 For questions or participation inquiries:
 
-- **Marcion Fückner** – Researcher and Lecturer  
+- **Marcio Fückner** – Researcher and Lecturer  
   ✉️ [m.fuckner@hva.nl](mailto:m.fuckner@hva.nl)
 
 - **Virgill van der Meer** – Gemeente Amsterdam  
